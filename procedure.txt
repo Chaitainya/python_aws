@@ -1,0 +1,3 @@
+1. Install boto3 by "pip install boto3"
+2. Create an IAM Role and Permissions and save the Access key and Secret key
+3. Now after you get the Access key and Secret key, configure in the local device by "aws configure" (first check if aws is already configured or not by "aws")
