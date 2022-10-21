@@ -1,3 +1,4 @@
+# if any error like module not found install pip install pypiwin32 # if any error occurs while installing pypiwin32 run this command: python -m pip install --user --upgrade pip
 import win32api
 import os
 
